@@ -1,4 +1,4 @@
-# Week 1 Tutorial Lab: How to Log into ieng6
+# Week 1 Tutorial Lab: How to Setup your CSE15L Account & Environment
 
 ## 1. Setting Up Your CSE15L Account
 
