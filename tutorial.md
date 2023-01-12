@@ -63,3 +63,4 @@ Now your terminal should be connected to the CSE servers.
 
 ## 6. Enter Some Commands
 
+Finally, enter some commands into your terminal.
