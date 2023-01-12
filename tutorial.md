@@ -21,7 +21,7 @@ Now it's time to install Visual Studio Code.
 Head to the link and then follow all the appropriate download instructions for your specific computer. After installation,
 open up VS Code and hopefully something similar to this will appear.
 
-![Image](file://acsnfs4.ucsd.edu/CifsHomes/619/kiw005/My%20Pictures/VS%20code%20screenshot.PNG)
+![VS code screenshot](https://user-images.githubusercontent.com/122496012/211947536-76d201b7-c97b-453d-b96e-103a34f1bb6a.PNG)
 
 Yours will most likely not look the same (mine, didn't as I'm on windows). But as long as it is similarily enough, you can move on to installing Git.
 
@@ -59,8 +59,18 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Say *yes* and then enter your password when prompted. Whatever you type will not show up so make sure you type it correctly and then press enter
 after.
 
-Now your terminal should be connected to the CSE servers.
+![ssh](https://user-images.githubusercontent.com/122496012/211947665-f696bb3b-e332-4520-984e-7609eaafe26f.PNG)
 
-## 6. Enter Some Commands
+Hopefully something similar to this should be appear which means now your terminal should be connected to the CSE servers!
+
+## 6. Enter Some Commands![Uploading ssh.PNG…]()
 
 Finally, enter some commands into your terminal.
+
+![Commands](https://user-images.githubusercontent.com/122496012/211947720-46c844ab-7e6f-4ff2-9709-7c850eaeb205.PNG)
+
+Just type any in and see what pops up. Your screen should then look pretty similar to this, obviously depending on the commands you chose.
+
+![image](https://user-images.githubusercontent.com/122496012/211947777-bce97802-408d-4cb5-b9b6-6bde5903aa64.png)
+
+**And finally you are done :D**
