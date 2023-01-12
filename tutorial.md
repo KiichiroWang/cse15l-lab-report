@@ -3,10 +3,10 @@
 # 1. Setting Up Your CSE15L Account
 
 To being setting up your account, head to the link below: 
-[Link]https://sdacs.ucsd.edu/~icc/index.php
+https://sdacs.ucsd.edu/~icc/index.php
 
 # 2. Installing Visual Studio Code
 
 # 3. Installing Git
 
-# 4.onnecting Remotely
+# 4. Connecting Remotely
