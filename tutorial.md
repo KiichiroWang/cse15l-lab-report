@@ -23,6 +23,37 @@ open up VS Code and hopefully something similar to this will appear.
 
 ![Image](https://ucsd-cse15l-w23.github.io/images/vscode.png)
 
+Yours will most likely not look the same (mine, didn't as I'm on windows). But as long as it is similarily enough, you can move on to installing Git.
+
 ## 3. Installing Git
 
-## 4. Connecting Remotely
+This is a windows specific step, if your on Mac you do not need to install Git as Mac already has a similar option built in.
+
+[Link]https://gitforwindows.org/
+
+Follow the link and install Git onto your computer.
+
+After installation, head over to VS Code to follow the next steps.
+
+## 4. Setting Up Git Bash on VS Code
+
+First on VS Code we need to open the terminal. You can do this through inputting **Ctrl + '** or go to **Terminal** on the top and then **New Terminal**.
+
+AFter openning the terminal input **Ctrl + Shift + P** to open the command palette. Type **Select Default Profile** and then select *Git Bash* from the options 
+available.
+
+Then by the terminal window, press on the **+** button, and then select *bash* from the options.
+
+## 5. Connecting Remotely
+
+In the terminal input, 
+> $ ssh cs15lwi23zz@ieng6.ucsd.edu
+
+Were the **zz** should be replaced by the correct parts of your own CSE 15L username.
+After doing so you will most likely see a message similar to 
+> ⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+
+
