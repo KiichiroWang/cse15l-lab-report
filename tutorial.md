@@ -21,7 +21,7 @@ Now it's time to install Visual Studio Code.
 Head to the link and then follow all the appropriate download instructions for your specific computer. After installation,
 open up VS Code and hopefully something similar to this will appear.
 
-![Image](https://ucsd-cse15l-w23.github.io/images/vscode.png)
+![Image](file://acsnfs4.ucsd.edu/CifsHomes/619/kiw005/My%20Pictures/VS%20code%20screenshot.PNG)
 
 Yours will most likely not look the same (mine, didn't as I'm on windows). But as long as it is similarily enough, you can move on to installing Git.
 
@@ -56,4 +56,10 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
+Say *yes* and then enter your password when prompted. Whatever you type will not show up so make sure you type it correctly and then press enter
+after.
+
+Now your terminal should be connected to the CSE servers.
+
+## 6. Enter Some Commands
 
