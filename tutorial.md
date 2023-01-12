@@ -63,7 +63,7 @@ after.
 
 Hopefully something similar to this should be appear which means now your terminal should be connected to the CSE servers!
 
-## 6. Enter Some Commands![Uploading ssh.PNG…]()
+## 6. Enter Some Commands
 
 Finally, enter some commands into your terminal.
 
